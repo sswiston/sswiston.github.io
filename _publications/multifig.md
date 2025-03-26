@@ -1,13 +1,14 @@
 ---
-title: "Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal"
+title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/multifig
-excerpt: 'The spatial and environmental features of regions where clades are evolving are expected to impact biogeographic processes such as speciation, extinction, and dispersal. Any number of regional features (such as elevation, distance, area, etc.) may be directly or indirectly related to these processes. For example, it may be that distances or differences in elevation or both may limit dispersal rates. However, it is difficult to disentangle which features are most strongly related to rates of different processes. Here, we present an extensible Multifeature Feature-Informed GeoSSE (MultiFIG) model that allows for the simultaneous investigation of any number of regional features. MultiFIG provides a conceptual framework for incorporating large numbers of features of different types, including categorical, quantitative, within-region, and between-region features, along with a mathematical framework for translating those features into biogeographic rates for statistical hypothesis testing. Using traditional Bayesian parameter estimation and reversible-jump Markov chain Monte Carlo, MultiFIG allows for the exploration of models with different numbers and combinations of feature-effect parameters and generates estimates for the strengths of relationships between each regional feature and core process. We validate this model with a simulation study covering a range of scenarios with different numbers of regions, tree sizes, and feature values. We also demonstrate the application of MultiFIG with an empirical case study of the South American lizard genus Liolaemus, investigating 16 regional features related to area, distance, and elevation. Our results show two important feature-process relationships: a negative distance/dispersal relationship and a negative area/extinction relationship. Interestingly, although speciation rates were found to be higher in Andean versus non-Andean regions, the model did not assign significance to Andean- or elevation-related parameters. These results highlight the need to consider multiple regional features in biogeographic hypothesis testing.'
-date: 2024
-venue: 'Systematic Biology'
-paperurl: 'https://doi.org/10.1093/sysbio/syae062'
-citation: 'Swiston, Sarah. (2024). &quot;Testing relationships between multiple regional features and biogeographic processes of speciation, extinction, and dispersal.&quot; <i>Systematic Biology</i>.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
