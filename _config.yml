@@ -24,9 +24,9 @@ author:
   avatar           : "headshot.png"
   name             : "Sarah Swiston"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Ecology & Evolution"
+  bio              : "Ph.D. Candidate in <br /> Ecology & Evolution"
   location         : "Saint Louis, MO"
-  employer         : "Washington University <br /> in Saint Louis"
+  employer         : "Washington University <br />     in Saint Louis"
   uri              : # URL
   email            : "sarah.k.swiston@gmail.com" 
 
