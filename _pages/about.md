@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. candidate in the Ecology & Evolutionary Biology program at Washington University in Saint Louis. I am in the lab of [Michael Landis](https://landislab.org/), where we develop mathematical models to study evolution.
+I am currently a sixth-year Ph.D. candidate in the Ecology & Evolutionary Biology program at Washington University in Saint Louis. I am in the lab of [Michael Landis](https://landislab.org/), where we develop mathematical models to study evolution.
 
 My work focuses on phylgenetic methods for historical biogeography. I am especially interested in investigating the relationship between evolving lineages and their environments, developing models that incorporate paleogeographic and paleoenvironmental information alongside phylogenetic and species range data.
 
