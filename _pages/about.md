@@ -17,4 +17,6 @@ I am also committed to teaching and pedagogical research. I have obtained a Teac
 
 Using the course design strategies I have learned through my work with the CTL, I am currently developing a graduate-level course called Mathematical Modeling in Ecology and Evolution, which I will teach in Spring 2026 as an instructor of record.
 
-My career goals are to teach biology at a primarily undergraduate institution, to mentor undergraduate researchers, and to continue engaging in pedagogical research. I am planning to defend my dissertation in Summer 2026, and am currently applying to positions. A full CV can be found here: [CV](http://sswiston.github.io/files/Swiston_CV.pdf)
+# My career goals are to teach biology at a primarily undergraduate institution, to mentor undergraduate researchers, and to continue engaging in pedagogical research.
+
+I am planning to defend my dissertation in Summer 2026, and am currently applying to positions. A full CV can be found here: [CV](http://sswiston.github.io/files/Swiston_CV.pdf)
