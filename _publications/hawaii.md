@@ -1,0 +1,13 @@
+---
+title: "The Goldilocks effect drives plant diversification on middle-aged Hawaiian islands"
+collection: publications
+category: manuscripts
+permalink: /publication/hawaii
+excerpt: 'Islands are ideal mesocosms for the study of dispersal, speciation, and extinction, but our understanding of insular radiations has long been limited by the difficulty of estimating the timing and tempo of island evolution in the absence of fossils. Here, we introduce a generalizable model for jointly inferring paleogeographically-informed biogeographic rates, ancestral species ranges, and divergence times, named TimeFIG. Using TimeFIG, we investigate the timing and tempo of evolution of <i>Kadua</i>, an ecomorphologically diverse but understudied plant genus in the coffee family (Rubiaceae).'
+date: 2025-12-16
+venue: 'bioRxiv'
+paperurl: 'https://doi.org/10.64898/2025.12.16.694722'
+citation: 'Lichter-Marck, I., <b>Swiston, S. K.</b>, Mendes, F. K., May, M., Neupane, S., Rønsted, N., Baldwin, B., Wagner, W., Wood, K., Zapata, F., Landis, M. J. (2025). The Goldilocks effect drives plant diversification on middle-aged Hawaiian islands. <i>bioRxiv</i>.'
+---
+
+Islands are ideal mesocosms for the study of dispersal, speciation, and extinction, but our understanding of insular radiations has long been limited by the difficulty of estimating the timing and tempo of island evolution in the absence of fossils. Here, we introduce a generalizable model for jointly inferring paleogeographically-informed biogeographic rates, ancestral species ranges, and divergence times, named TimeFIG. Using TimeFIG, we investigate the timing and tempo of evolution of <i>Kadua</i>, an ecomorphologically diverse but understudied plant genus in the coffee family (Rubiaceae). We densely sample <i>Kadua</i> from all Hawaiian Islands and infer relationships using genome-scale sequence data. We then estimate rates of dispersal, speciation, and extinction simultaneously with divergence times. We find support for a range of colonization times corresponding with the rise of the oldest modern high island, Kauai, or with older now-eroded, northwestern Hawaiian Islands. We detect strong effects of island isolation on dispersal rates and find that diversification rates are highest when islands are "middle-aged", but recover weak support for the effect of island size on extinction and the progression rule of island biogeography. Our unified spatiotemporal framework provides a solution for historical biogeography that aides the study of island biology and evolutionary theory.
